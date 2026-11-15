@@ -1,0 +1,1 @@
+<x-app-layout><x-slot name="header"><h2 class="mt-0.5 text-2xl font-bold text-white">Tambah Area Parkir</h2></x-slot><div class="py-8"><div class="mx-auto max-w-2xl px-4 sm:px-6 lg:px-8">@include('admin.area.form')</div></div></x-app-layout>
