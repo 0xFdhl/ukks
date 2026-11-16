@@ -33,7 +33,7 @@
             </main>
 
             <footer class="mt-12 border-t border-gray-200 py-6 text-center text-xs text-gray-400">
-                {{ config('app.name', 'ParkirIN') }} &copy; {{ date('Y') }} — Sistem Manajemen Parkir
+                {{ config('app.name', 'ParkirBCM') }} &copy; {{ date('Y') }} — Sistem Manajemen Parkir
             </footer>
         </div>
     </body>

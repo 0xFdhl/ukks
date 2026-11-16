@@ -53,7 +53,7 @@
                     </ul>
                 </div>
 
-                <p class="relative text-xs text-blue-200/80">{{ config('app.name', 'ParkirIN') }} &copy; {{ date('Y') }}</p>
+                <p class="relative text-xs text-blue-200/80">{{ config('app.name', 'ParkirBCM') }} &copy; {{ date('Y') }}</p>
             </aside>
 
             <!-- Form panel -->
