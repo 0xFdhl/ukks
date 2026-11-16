@@ -11,7 +11,7 @@
 <body>
     <main class="receipt">
         <header class="center">
-            <h1 style="margin:0 0 6px;letter-spacing:2px">PARKIRIN</h1>
+            <h1 style="margin:0 0 6px;letter-spacing:2px">ParkirBCM</h1>
             <p class="muted" style="margin:0">Bukti transaksi parkir</p>
         </header>
         <hr class="rule">
